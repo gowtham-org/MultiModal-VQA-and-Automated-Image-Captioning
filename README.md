@@ -2,6 +2,7 @@
 
 This document outlines the steps taken during the project development, including the motivation, environment setup, dataset processing, model training, evaluation, and deployment strategies.
 
+Refer this URL for downloading entire dataset : https://www.kaggle.com/datasets/tezansahu/processed-daquar-dataset?select=images
 
 ## 1. Project Overview
 The goal of this project is to enhance machine understanding of images by combining visual data with advanced language models. We address two primary tasks:
